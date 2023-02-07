@@ -1,11 +1,12 @@
 # CW 5: Adapter Practice!
 
 ## Dia for CW 5
-![classwork5_dia](https://user-images.githubusercontent.com/89400338/217357662-bf7eb629-1c9a-41f1-9e06-b4d36b793b39.png)
+![UPDATED_DIA](https://user-images.githubusercontent.com/89400338/217358994-4b7b3e77-d4fd-4e9a-85ba-4aab14b77b3e.png)
 
 Interfaces:  
   - Toybear
   - Bear
+  
 Classes: 
   - TeddyBear class extends Toybear interface (Implementation of an interface)
   - Grizzly class extends Bear interface (Implementation of an interface)
